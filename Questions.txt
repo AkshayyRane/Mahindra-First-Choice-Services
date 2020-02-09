@@ -1,0 +1,82 @@
+Questions : 
+
+1. Brand and model against location
+   Make and Model column against State,City
+
+2. Service Time against location
+
+3. Type of service againt location
+   Description column against State,City 
+
+4. Type of service against Brand and Model
+   Description against Make and Model
+
+5. Total Value against Brand and Model
+   Total value column against Make and Model
+
+6. Type of service against Total value
+   Description col against Total value col
+
+7. Name of Order Items against Total value
+   Material against Total value
+
+8. Name of Order Items against Brand and Model
+   Material against Make and Model column
+
+9. Name of Order Items against Partner type\Cust_Type
+   Material against Make and Model column and Partner type
+
+10. Type of service against Total value
+    Description col against Partner type\Cust_Type
+
+11.Name of Order Items against Locations 
+    Material against City,State
+
+12. Partner type\Cust_Type against Locations
+    Partner type\Cust_Type against city,state
+
+13. Partner type\Cust_Type against Total Value
+
+14. Partner type\Cust_Type against Brand Model
+    Partner type\Cust_Type against Make and Model column
+
+15. Partner type\Cust_Type against Labour Cost
+    Partner type\Cust_Type against Labour Total column
+
+16. Brand and model against Labour Total
+    Make and Model column against Labour Total column
+
+17. Insurance company against total value
+
+18. Distance covered against Total Value
+    KMs reading col against Total Value
+
+19. Plant Name1 against Total Value
+
+20. Technician Name against Total value
+
+21. Technician name against Labour cost
+    Technician name column against Labour Total column
+
+22. Plant Name1 against Description
+
+23. Plant Name1 against Cust_Type
+
+24. Order Type against Brand and model
+    Order Type against  Make and Model column
+
+25. Order Type against Description
+
+26. Order Type against Plant Name1
+
+27. Order Type against Locations
+
+28. Order Type against Total value
+
+
+  
+
+
+
+
+     
